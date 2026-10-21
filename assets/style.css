@@ -235,3 +235,5 @@ h1,h2,h3,p { margin-block-start: 0; }
 
 .download-link { margin-inline-start: 8px; }
 .site-header { flex-wrap: wrap; }
+
+.monogram-logo { width: 42px; height: 42px; color: var(--text); flex-shrink: 0; }
