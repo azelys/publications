@@ -72,6 +72,6 @@ for group in data['groups']:
         parts.extend(f'<p>{escape(paragraph)}</p>' for paragraph in record['abstract'])
         parts.append('</div></details></div></li>')
     parts.append('</ol></section>')
-parts.append('''</main><footer class="site-footer"><a class="footer-author" href="https://mahdiar.org/">Mahdiar Sadeghi</a><a href="https://github.com/azelys/publications/tree/main/pdfs">Downloadable publications</a></footer></div></body></html>''')
+parts.append('''</main><footer class="site-footer"><span class="copyright">© 2026 Mahdiar Sadeghi</span></footer></div></body></html>''')
 (ROOT / 'index.html').write_text('\n'.join(parts) + '\n')
 print(f'Rendered {count} records; verified {len(files)} original PDFs.')
