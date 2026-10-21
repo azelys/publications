@@ -1,0 +1,58 @@
+[
+  {
+    "file": "pdfs/microglia-ferroptosis.pdf",
+    "title": "Microglia ferroptosis is regulated by SEC24B and contributes to neurodegeneration",
+    "version": "Published article",
+    "source_url": "https://www.nature.com/articles/s41593-022-01221-3.pdf",
+    "bytes": 19536428,
+    "sha256": "13d9db250199359160baf95f7db7da69b19f0dac6432d71fc969d718cd01c346"
+  },
+  {
+    "file": "pdfs/long-term-epidemic-regulation.pdf",
+    "title": "Long-Term Regulation of Prolonged Epidemic Outbreaks in Large Populations via Adaptive Control: A Singular Perturbation Approach",
+    "version": "Preprint",
+    "source_url": "https://arxiv.org/pdf/2103.08488",
+    "bytes": 519238,
+    "sha256": "fd17ff964103690732be2128e120546468e440f1e9c3fda9f058c024db9c7dcf"
+  },
+  {
+    "file": "pdfs/universal-epidemic-features.pdf",
+    "title": "Universal features of epidemic models under social distancing guidelines",
+    "version": "Preprint",
+    "source_url": "https://sontaglab.org/FTPDIR/2020.06.21.163931v2.full.pdf",
+    "bytes": 1843153,
+    "sha256": "93a177fdd781428d425db237ea90cd719b6ecda2381dff2ecf76167f17bcb452"
+  },
+  {
+    "file": "pdfs/no-switching-policy.pdf",
+    "title": "No Switching Policy Is Optimal for a Positive Linear System with a Bottleneck Entrance",
+    "version": "Preprint",
+    "source_url": "https://arxiv.org/pdf/1905.08872",
+    "bytes": 2813529,
+    "sha256": "4a280d4c5ae2d5a6fdbade5acec0c0877ca4ce6be4b696a7230392ea38523150"
+  },
+  {
+    "file": "pdfs/parkinsons-polygenic-risk.pdf",
+    "title": "Genome-Wide Polygenic Risk Score Identifies Individuals at Elevated Parkinson’s Disease Risk",
+    "version": "Preprint",
+    "source_url": "https://www.medrxiv.org/content/medrxiv/early/2020/10/20/2020.10.16.20212944.full.pdf",
+    "bytes": 1429629,
+    "sha256": "5c659912fe38d27fe58968452a900b105742418f42cabedc5ecee2d15070e221"
+  },
+  {
+    "file": "pdfs/periodic-gain-ribosome-flow.pdf",
+    "title": "On the Periodic Gain of the Ribosome Flow Model",
+    "version": "Preprint",
+    "source_url": "https://sontaglab.org/FTPDIR/2018_12_sadeghi_alradhawi_margaliot_sontag_rfm_periodic_biorxiv.pdf",
+    "bytes": 665557,
+    "sha256": "f858ee8c5a4a2cdc63f41115eba65da7b160ffc5fca3c503f748871a0c9cc3a3"
+  },
+  {
+    "file": "pdfs/sadeghi-dissertation-2022.pdf",
+    "title": "Control and Learning in Biological Systems",
+    "version": "Dissertation",
+    "source_url": "https://raw.githubusercontent.com/azelys/disquisition/main/maintext/main.pdf",
+    "bytes": 3019422,
+    "sha256": "51ca514247a69e4eb68fe8347474b5785de6884f4deda8a8ec5ff939ecf2e4ff"
+  }
+]
