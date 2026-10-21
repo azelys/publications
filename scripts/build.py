@@ -23,13 +23,13 @@ parts = ['''<!doctype html>
 <title>Publications — Mahdiar Sadeghi</title>
 <meta name="description" content="Publications by Mahdiar Sadeghi, with abstracts and downloadable PDFs: quantitative pharmacology, mathematical modeling, control theory, and electromagnetic sensing.">
 <link rel="canonical" href="https://azelys.github.io/publications/">
-<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon.svg?v=omega1" type="image/svg+xml">
 <link rel="stylesheet" href="assets/style.css">
 </head><body>
 <a class="skip-link" href="#main">Skip to content</a>
 <div class="site-shell">
 <header class="site-header">
-<a class="site-brand" href="https://mahdiar.org/"><svg class="brand-mark monogram-logo" viewBox="0 0 64 64" aria-hidden="true"><path d="M14 47V24 M14 34C14 20 32 20 32 34V47 M32 34C32 20 50 20 50 34V47" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="brand-name">Mahdiar Sadeghi</span></a>
+<a class="site-brand" href="https://mahdiar.org/"><svg class="brand-mark monogram-logo" viewBox="0 0 64 64" aria-hidden="true"><path d="M16 53C10 43 9 24 16 15C23 7 32 12 32 30C32 12 41 7 48 15C55 24 54 43 48 53" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="brand-name">Mahdiar Sadeghi</span></a>
 <nav class="primary-nav" aria-label="Primary navigation"><a href="https://mahdiar.org/">Home</a><a href="./" aria-current="page">Publications</a></nav>
 </header>
 <main id="main" tabindex="-1">
