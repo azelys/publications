@@ -27,5 +27,11 @@ PDFs are stored unchanged. Copyright and licenses remain with the respective
 authors and publishers; this repository does not grant a blanket license to the
 papers. Font license information is retained in `fonts/`.
 
-The collection currently contains 17 records, seven locally hosted PDFs, and
-one additional direct PDF link. It is not an exhaustive archive of all works.
+Each publication has one download and one external reference. A GitHub link is
+included only when a matching code repository has been identified. Conference
+abstract exports are labeled as abstracts rather than full papers or posters.
+
+The collection currently contains 17 records and 23 locally hosted PDF files,
+including historical versions in `pdfs/author-archive/` and three abstract
+exports in `pdfs/abstracts/`. One article's download links to its author's PDF
+server. This is not an exhaustive archive of all works.

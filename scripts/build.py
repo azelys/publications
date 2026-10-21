@@ -48,25 +48,25 @@ for group in data['groups']:
     parts.append(f'<section class="publication-group" aria-labelledby="{escape(group["id"])}"><h2 id="{escape(group["id"])}">{escape(group["title"])}</h2><ol class="publication-records">')
     for record in group['records']:
         count += 1
-        assert record['abstract'] and record['links'], record['title']
+        assert record['abstract'] and record['reference'] and record['pdf'], record['title']
         record_id = 'work-' + re.sub(r'[^a-z0-9]+', '-', record['title'].lower()).strip('-')
         assert record_id not in ids, record_id
         ids.add(record_id)
         parts.append(f'<li id="{record_id}"><span class="publication-year">{record["year"]}</span><div><h3>{escape(record["title"])}</h3><p class="publication-authors">{escape(record["authors_text"])}</p><p class="publication-venue">{escape(record["venue"])}</p>')
-        links = []
-        pdf = record.get('pdf')
-        if pdf:
-            url = pdf.get('path') or pdf['url']
-            if pdf.get('path'):
-                assert url in files, url
-            links.append(f'<a href="{escape(url, quote=True)}">{escape(pdf["label"])}</a>')
-            if pdf.get('path'):
-                links.append(f'<a href="{escape(url, quote=True)}" download aria-label="Download PDF: {escape(record["title"], quote=True)}">Download</a>')
-        for link in record['links']:
-            links.append(f'<a href="{escape(link["url"], quote=True)}">{escape(link["label"])}</a>')
-        if record.get('license'):
-            license = record['license']
-            links.append(f'<a href="{escape(license["url"], quote=True)}" rel="license">{escape(license["label"])}</a>')
+        pdf = record['pdf']
+        url = pdf.get('path') or pdf['url']
+        download = ''
+        if pdf.get('path'):
+            assert url in files, url
+            download = ' download'
+        links = [f'<a href="{escape(url, quote=True)}"{download}>{escape(pdf["label"])}</a>']
+        reference = record['reference']
+        links.append(f'<a href="{escape(reference["url"], quote=True)}" target="_blank" rel="noopener noreferrer">{escape(reference["label"])}</a>')
+        if record.get('code'):
+            code = record['code']
+            assert code['url'] != reference['url']
+            links.append(f'<a href="{escape(code["url"], quote=True)}" target="_blank" rel="noopener noreferrer">{escape(code["label"])}</a>')
+        assert len(links) == (3 if record.get('code') else 2)
         parts.append('<p class="publication-links">' + ' · '.join(links) + '</p>')
         parts.append(f'<details class="publication-abstract"><summary>Abstract<span class="sr-only"> — {escape(record["title"])}</span></summary><div>')
         parts.extend(f'<p>{escape(paragraph)}</p>' for paragraph in record['abstract'])
@@ -74,4 +74,4 @@ for group in data['groups']:
     parts.append('</ol></section>')
 parts.append('''</main><footer class="site-footer"><span class="copyright">© 2026 Mahdiar Sadeghi</span></footer></div></body></html>''')
 (ROOT / 'index.html').write_text('\n'.join(parts) + '\n')
-print(f'Rendered {count} records; verified {len(files)} original PDFs.')
+print(f'Rendered {count} records; verified {len(files)} PDF files.')

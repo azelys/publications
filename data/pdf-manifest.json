@@ -54,5 +54,149 @@
     "source_url": "https://raw.githubusercontent.com/azelys/disquisition/main/maintext/main.pdf",
     "bytes": 3019422,
     "sha256": "51ca514247a69e4eb68fe8347474b5785de6884f4deda8a8ec5ff939ecf2e4ff"
+  },
+  {
+    "file": "pdfs/author-archive/2019_IEEE_RFM.pdf",
+    "title": "No Switching Policy Is Optimal for a Positive Linear System with a Bottleneck Entrance",
+    "version": "Published article",
+    "source_url": "https://doi.org/10.1109/LCSYS.2019.2918757",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 814715,
+    "sha256": "6d1e6afc21037f29aa75b26952398add312a3fc3305138b7fb2cada99b5e6555"
+  },
+  {
+    "file": "pdfs/author-archive/2017_EUCAP_Model.pdf",
+    "title": "Modeling the response of dielectric slabs on ground planes using CW focused millimeter waves",
+    "version": "Conference manuscript",
+    "source_url": "https://doi.org/10.23919/EuCAP.2017.7928572",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 537117,
+    "sha256": "2c4f24c16f8285fc01c294d161feef7e8e573898f6236f088ce02bfa38d7885b"
+  },
+  {
+    "file": "pdfs/author-archive/2021_MD_AMPPD.pdf",
+    "title": "Accelerating Medicines Partnership: Parkinson’s Disease. Genetic Resource",
+    "version": "Published article",
+    "source_url": "https://doi.org/10.1002/mds.28549",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 850756,
+    "sha256": "e2e685d0ec585d86ea966044e59062710e09abeb64cd37ee4ecce23a9f5c6471"
+  },
+  {
+    "file": "pdfs/author-archive/2021_ARC_Universal.pdf",
+    "title": "Universal features of epidemic models under social distancing guidelines",
+    "version": "Journal proof",
+    "source_url": "https://doi.org/10.1016/j.arcontrol.2021.04.004",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 3605132,
+    "sha256": "f1e0ab063f60d377c453ab56116344ed1095c8f09fb17261372be50405a69c31"
+  },
+  {
+    "file": "pdfs/author-archive/2018_APS_InverseMethod.pdf",
+    "title": "Determining the Dielectric Permittivity and Thickness of a Penetrable Slab Affixed to the Human Body Using Focused CW Mm-Wave Sensing",
+    "version": "Conference manuscript",
+    "source_url": "https://doi.org/10.1109/APUSNCURSINRSM.2018.8608861",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 1916373,
+    "sha256": "faa5fcbf022099e9d16fdffcfae12d8a0186fb846e7b5bd6470a77aac44a1a23"
+  },
+  {
+    "file": "pdfs/author-archive/2018_APS_VSModel.pdf",
+    "title": "Virtual Source Model for Ray-Based Analysis of Focused Wave Scattering of a Penetrable Slab on PEC Ground Plane",
+    "version": "Conference manuscript",
+    "source_url": "https://doi.org/10.1109/APUSNCURSINRSM.2018.8609422",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 764610,
+    "sha256": "09fea6efd89d65e4fd6ea1a16e79db2b793d5662a143c4acf921926177a22b1e"
+  },
+  {
+    "file": "pdfs/author-archive/2020_IEEE_SingleFrequency.pdf",
+    "title": "Single-Frequency Fast Dielectric Characterization of Concealed Body-Worn Explosive Threats",
+    "version": "Accepted manuscript",
+    "source_url": "https://doi.org/10.1109/TAP.2020.3000866",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 5420977,
+    "sha256": "e29d5f8adbe72d495272b8d85f3c640a2e337794d09d33191fd05c35831a98fb"
+  },
+  {
+    "file": "pdfs/author-archive/2021_preprint_EpidemicQSS.pdf",
+    "title": "Long-Term Regulation of Prolonged Epidemic Outbreaks in Large Populations via Adaptive Control: A Singular Perturbation Approach",
+    "version": "Preprint, arXiv v1",
+    "source_url": "https://doi.org/10.1109/LCSYS.2021.3083983",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 426402,
+    "sha256": "db07bb62ea883fa580bd1504bda1cb2e3cc6b2096096a344de7c4ec049c389ca"
+  },
+  {
+    "file": "pdfs/author-archive/2018_preprint_RFM.pdf",
+    "title": "On the Periodic Gain of the Ribosome Flow Model",
+    "version": "Preprint, December 28, 2018",
+    "source_url": "https://doi.org/10.1101/507988",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 249727,
+    "sha256": "5fb138dda78cea6ab441b7504080834cf61c5f4cb91a0795d0fad3f128d73b59"
+  },
+  {
+    "file": "pdfs/author-archive/2020_preprint_AMPPD.pdf",
+    "title": "Accelerating Medicines Partnership: Parkinson’s Disease. Genetic Resource",
+    "version": "Preprint",
+    "source_url": "https://doi.org/10.1002/mds.28549",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 390568,
+    "sha256": "468dc6ea6b75d6c7dea9b0c1fedb83b8ccc31cd58701952387a2dc05e3897269"
+  },
+  {
+    "file": "pdfs/author-archive/2020_preprint_Universal.pdf",
+    "title": "Universal features of epidemic models under social distancing guidelines",
+    "version": "Preprint, June 22, 2020",
+    "source_url": "https://doi.org/10.1016/j.arcontrol.2021.04.004",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 1166741,
+    "sha256": "7529f86ea91faf5dfc8ad6e764149d14b31e771e06e19cedc60c72ab0d0981bf"
+  },
+  {
+    "file": "pdfs/author-archive/2020_preprint_SNCA.pdf",
+    "title": "Network Analysis and Human Single Cell Brain Transcriptomics Reveal Novel Aspects of Alpha-Synuclein (SNCA) Biology",
+    "version": "Preprint",
+    "source_url": "https://doi.org/10.1101/2020.06.05.137166",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 2175908,
+    "sha256": "f99b725ab7e3e39742e4eeb7d933ecd99539c92d1595ee3f2e286b35414357ba"
+  },
+  {
+    "file": "pdfs/author-archive/2020_preprint_GPRS.pdf",
+    "title": "Genome-Wide Polygenic Risk Score Identifies Individuals at Elevated Parkinson’s Disease Risk",
+    "version": "Preprint",
+    "source_url": "https://doi.org/10.1101/2020.10.16.20212944",
+    "provenance": "Original file recovered from the author’s historical website archive.",
+    "bytes": 1447912,
+    "sha256": "ae2dd9d6033878da3bf2da8cd1efe53bcbdd8a2550178cc73ab6921f510b0484"
+  },
+  {
+    "file": "pdfs/abstracts/acop-2026-m118-abstract.pdf",
+    "title": "Population PK/PD Modeling Supporting Accelerated Approval of an Intravenous Brain-Penetrant Enzyme Replacement Therapy for Mucopolysaccharidosis Type II",
+    "version": "Abstract export",
+    "source_url": "https://acop2026.eventscribe.net/fsPopup.asp?PosterID=834039&efp=SkhTQlZDVkcyMjQ4NQ&mode=posterInfo",
+    "provenance": "PDF export of the conference abstract; not the poster or a full paper.",
+    "bytes": 67693,
+    "sha256": "e414edfb723c085ff69eb36625368e041db4377a91b6a2b087ec7cf4e0672ef5"
+  },
+  {
+    "file": "pdfs/abstracts/acop-2023-t068-abstract.pdf",
+    "title": "A Translational Pharmacokinetics Model Platform for Delivery of Enzymes and Proteins Utilizing a Brain-Penetrant Transport Vehicle",
+    "version": "Abstract export",
+    "source_url": "https://fliphtml5.com/gbngh/wata/ACoP14_Abstracts/193/",
+    "provenance": "PDF export of the conference abstract; not the poster or a full paper.",
+    "bytes": 66174,
+    "sha256": "caa7a4e59dba3f3f2efb073fb09ef59d6a9bc68a5fe2d870cb5a4e2d2f48e1ed"
+  },
+  {
+    "file": "pdfs/abstracts/neurology-2021-4286-abstract.pdf",
+    "title": "Genome-Wide Polygenic Risk Score Identifies Individuals at Elevated Parkinson’s Disease Risk (4286)",
+    "version": "Abstract export",
+    "source_url": "https://doi.org/10.1212/WNL.96.15_supplement.4286",
+    "provenance": "PDF export of the conference abstract; not the poster or a full paper.",
+    "bytes": 65605,
+    "sha256": "2575b90e091b1c702d44928684e997e8d764234679444999476ddee0620f3d34"
   }
 ]
