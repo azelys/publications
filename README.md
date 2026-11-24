@@ -31,7 +31,8 @@ Each publication has one download and one external reference. A GitHub link is
 included only when a matching code repository has been identified. Conference
 abstract exports are labeled as abstracts rather than full papers or posters.
 
-The collection currently contains 17 records and 23 locally hosted PDF files,
+The collection currently contains 18 records and 23 locally hosted PDF files,
 including historical versions in `pdfs/author-archive/` and three abstract
-exports in `pdfs/abstracts/`. One article's download links to its author's PDF
-server. This is not an exhaustive archive of all works.
+exports in `pdfs/abstracts/`. External downloads include one article on its
+author's website and one preprint on bioRxiv. This is not an exhaustive archive
+of all works.

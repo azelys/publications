@@ -1,5 +1,5 @@
 {
-  "updated": "October 21, 2026",
+  "updated": "November 24, 2026",
   "groups": [
     {
       "title": "Journal articles",
@@ -317,6 +317,28 @@
       "title": "Preprints",
       "id": "preprints",
       "records": [
+        {
+          "title": "Flux analysis resolves distinct brain uptake and clearance of TfR- and CD98hc-targeting large molecules",
+          "year": "2026",
+          "type": "preprint",
+          "doi": "10.64898/2026.11.12.766279",
+          "authors_text": "Arash Moshkforoush, Darren Chan, Ahlam Qerqez, Jennifer E. Kung, Kylie S. Chew, Robert C. Wells, Johann Chow, Richard Theolis, Nicholas P.D. Liau, Joseph Duque, Padma Akkapeddi, Abira Bandyopadhyay, Isabel Becerra, Butch Benitez, Ellen Y. T. Chien, Roni Chau, Allisa Clemens, David Huynh, Do Jin Kim, Nathalie Khoury, Kendra J. Lechtenberg, Eric Liang, Hiwot Misker, Hoang Nguyen, Michelle E. Pizzo, Kevin Rebadulla, Yaneth Robles-Colmenares, Mahdiar Sadeghi, Tiffany Tran, Ranya K.A. Virk, Kaitlin Xa, Annie Arguello, Mark S. Dennis, Joseph W. Lewcock, Cathal S. Mahon, Lionel Rougé, John Michael Sauer, Ryan J. Watts, Don Zhong, Y. Joy Yu Zuchero, Kapil Gadkar, Mihalis S. Kariolis, Shyeilla Dhuria, Robert G. Thorne, Christopher M. Koth, Kirk R. Henne",
+          "venue": "bioRxiv, posted November 16, 2026",
+          "abstract_label": "Abstract summary",
+          "abstract": [
+            "The study combines experiments in humanized mouse models with pharmacokinetic modeling to estimate how quickly antibody transport vehicles enter and leave the brain. Vehicles targeting TfR entered and cleared faster than those targeting CD98hc. The model attributed higher brain exposure for vehicles targeting both receptors primarily to slower clearance."
+          ],
+          "abstract_source": "https://www.biorxiv.org/content/10.64898/2026.11.12.766279v1.abstract",
+          "pdf": {
+            "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766279v1.full.pdf",
+            "label": "Download preprint",
+            "version": "Preprint, v1"
+          },
+          "reference": {
+            "label": "bioRxiv ↗",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766279v1.abstract"
+          }
+        },
         {
           "title": "Network Analysis and Human Single Cell Brain Transcriptomics Reveal Novel Aspects of Alpha-Synuclein (SNCA) Biology",
           "year": "2020",
